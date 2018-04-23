@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="25293" started-at="2018-04-23T05:39:08Z" finished-at="2018-04-23T05:39:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="25293" started-at="2018-04-23T05:39:08Z" finished-at="2018-04-23T05:39:34Z">
+      <class name="com.first_Selenium.utility.LaunchIe">
+        <test-method status="PASS" signature="launchurl()[pri:0, instance:com.first_Selenium.utility.LaunchIe@6574b225]" name="launchurl" duration-ms="25261" started-at="2018-04-23T11:09:08Z" finished-at="2018-04-23T11:09:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+      </class> <!-- com.first_Selenium.utility.LaunchIe -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
